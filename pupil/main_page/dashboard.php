@@ -38,6 +38,7 @@ $sy_row = $sy_res->fetch_assoc();
 function getSubjectInfo($subject_id, $type)
 {
 
+    // adding a connection
     $con = connection();
 
     $sql = "SELECT * FROM `subject_tbl` WHERE `id` = '$subject_id'";

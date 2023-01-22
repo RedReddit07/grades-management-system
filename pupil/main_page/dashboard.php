@@ -3,6 +3,7 @@
 if (!isset($_SESSION)) {
     session_start();
 }
+//get current pupilID
 if (isset($_SESSION['pupilID'])) {
 
     $student_id = $_SESSION['pupilID'];

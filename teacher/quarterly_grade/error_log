@@ -1,0 +1,113 @@
+[16-May-2022 23:10:59 UTC] PHP Warning:  Undefined array key "grading_period" in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 30
+[16-May-2022 23:10:59 UTC] PHP Warning:  Undefined variable $toexc in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 75
+[16-May-2022 23:10:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '_remark' in 'where clause' in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php:264
+Stack trace:
+#0 /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php(264): mysqli->query()
+#1 /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php(440): countPassedPupil()
+#2 {main}
+  thrown in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 264
+[17-May-2022 03:58:36 UTC] PHP Warning:  Undefined array key "grading_period" in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 30
+[17-May-2022 03:58:36 UTC] PHP Warning:  Undefined variable $toexc in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 75
+[17-May-2022 03:58:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '_remark' in 'where clause' in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php:261
+Stack trace:
+#0 /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php(261): mysqli->query()
+#1 /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php(437): countPassedPupil()
+#2 {main}
+  thrown in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 261
+[17-May-2022 05:06:47 UTC] PHP Warning:  Undefined array key "grading_period" in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 30
+[17-May-2022 05:06:47 UTC] PHP Warning:  Undefined variable $toexc in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 75
+[17-May-2022 05:06:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '_remark' in 'where clause' in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php:261
+Stack trace:
+#0 /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php(261): mysqli->query()
+#1 /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php(437): countPassedPupil()
+#2 {main}
+  thrown in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 261
+[17-May-2022 07:26:47 UTC] PHP Warning:  Undefined array key "grading_period" in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 30
+[17-May-2022 07:26:47 UTC] PHP Warning:  Undefined variable $toexc in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 75
+[17-May-2022 07:26:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '_remark' in 'where clause' in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php:261
+Stack trace:
+#0 /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php(261): mysqli->query()
+#1 /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php(437): countPassedPupil()
+#2 {main}
+  thrown in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 261
+[17-May-2022 08:32:16 UTC] PHP Warning:  Undefined array key "grading_period" in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 30
+[17-May-2022 08:32:16 UTC] PHP Warning:  Undefined variable $toexc in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 75
+[17-May-2022 08:32:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '_remark' in 'where clause' in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php:261
+Stack trace:
+#0 /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php(261): mysqli->query()
+#1 /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php(437): countPassedPupil()
+#2 {main}
+  thrown in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 261
+[17-May-2022 08:35:40 UTC] PHP Warning:  Undefined array key "grading_period" in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 30
+[17-May-2022 08:35:40 UTC] PHP Warning:  Undefined variable $toexc in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 75
+[17-May-2022 08:35:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '_remark' in 'where clause' in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php:261
+Stack trace:
+#0 /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php(261): mysqli->query()
+#1 /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php(437): countPassedPupil()
+#2 {main}
+  thrown in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 261
+[17-May-2022 19:35:59 UTC] PHP Warning:  Undefined array key "grading_period" in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 30
+[17-May-2022 19:35:59 UTC] PHP Warning:  Undefined variable $toexc in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 75
+[17-May-2022 19:35:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '_remark' in 'where clause' in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php:261
+Stack trace:
+#0 /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php(261): mysqli->query()
+#1 /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php(438): countPassedPupil()
+#2 {main}
+  thrown in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 261
+[18-May-2022 00:57:12 UTC] PHP Warning:  Undefined array key "grading_period" in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 30
+[18-May-2022 00:57:12 UTC] PHP Warning:  Undefined variable $toexc in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 75
+[18-May-2022 00:57:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '_remark' in 'where clause' in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php:261
+Stack trace:
+#0 /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php(261): mysqli->query()
+#1 /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php(438): countPassedPupil()
+#2 {main}
+  thrown in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 261
+[18-May-2022 01:01:28 UTC] PHP Warning:  Undefined array key "grading_period" in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 30
+[18-May-2022 01:01:28 UTC] PHP Warning:  Undefined variable $toexc in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 75
+[18-May-2022 01:01:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '_remark' in 'where clause' in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php:261
+Stack trace:
+#0 /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php(261): mysqli->query()
+#1 /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php(438): countPassedPupil()
+#2 {main}
+  thrown in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 261
+[18-May-2022 01:28:40 UTC] PHP Warning:  Undefined array key "grading_period" in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 30
+[18-May-2022 01:28:40 UTC] PHP Warning:  Undefined variable $toexc in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 75
+[18-May-2022 01:28:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '_remark' in 'where clause' in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php:261
+Stack trace:
+#0 /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php(261): mysqli->query()
+#1 /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php(438): countPassedPupil()
+#2 {main}
+  thrown in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 261
+[18-May-2022 02:01:08 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 115
+[18-May-2022 02:01:08 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 290
+[18-May-2022 02:01:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 536
+[18-May-2022 06:09:06 UTC] PHP Warning:  Undefined array key "grading_period" in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 30
+[18-May-2022 06:09:06 UTC] PHP Warning:  Undefined variable $toexc in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 75
+[18-May-2022 06:09:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column '_remark' in 'where clause' in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php:261
+Stack trace:
+#0 /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php(261): mysqli->query()
+#1 /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php(438): countPassedPupil()
+#2 {main}
+  thrown in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 261
+[23-Jun-2022 06:57:24 UTC] PHP Warning:  Undefined array key "grading_period" in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 30
+[23-Jun-2022 06:57:24 UTC] PHP Warning:  Undefined variable $toexc in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 75
+[26-Jun-2022 00:53:57 UTC] PHP Warning:  Undefined array key "grading_period" in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 30
+[26-Jun-2022 00:53:57 UTC] PHP Warning:  Undefined variable $toexc in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 75
+[26-Jun-2022 15:33:29 UTC] PHP Warning:  Undefined array key "grading_period" in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 30
+[26-Jun-2022 15:33:29 UTC] PHP Warning:  Undefined variable $toexc in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 75
+[26-Jun-2022 15:33:43 UTC] PHP Warning:  Undefined array key "grading_period" in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 30
+[26-Jun-2022 15:33:43 UTC] PHP Warning:  Undefined variable $toexc in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 75
+[26-Jun-2022 15:35:52 UTC] PHP Warning:  Undefined array key "grading_period" in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 30
+[26-Jun-2022 15:35:52 UTC] PHP Warning:  Undefined variable $toexc in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 75
+[26-Jun-2022 16:00:18 UTC] PHP Warning:  Undefined array key "grading_period" in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 30
+[26-Jun-2022 16:00:18 UTC] PHP Warning:  Undefined variable $toexc in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 75
+[30-Jun-2022 00:27:20 UTC] PHP Warning:  Undefined array key "grading_period" in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 30
+[30-Jun-2022 00:27:20 UTC] PHP Warning:  Undefined variable $toexc in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 75
+[30-Jun-2022 00:45:34 UTC] PHP Warning:  Undefined array key "grading_period" in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 30
+[30-Jun-2022 00:45:34 UTC] PHP Warning:  Undefined variable $toexc in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 75
+[30-Jun-2022 01:50:36 UTC] PHP Warning:  Undefined array key "grading_period" in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 30
+[30-Jun-2022 01:50:36 UTC] PHP Warning:  Undefined variable $toexc in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 75
+[30-Jun-2022 11:36:15 UTC] PHP Warning:  Undefined array key "grading_period" in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 30
+[30-Jun-2022 11:36:15 UTC] PHP Warning:  Undefined variable $toexc in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 75
+[02-Jul-2022 15:00:31 UTC] PHP Warning:  Undefined array key "grading_period" in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 30
+[02-Jul-2022 15:00:31 UTC] PHP Warning:  Undefined variable $toexc in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/quarterly_grade/grading_period.php on line 75

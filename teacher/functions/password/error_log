@@ -1,0 +1,6 @@
+[17-May-2022 04:21:04 UTC] PHP Warning:  Undefined array key "pupil_lrn" in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/functions/password/add_pupil_password.php on line 8
+[17-May-2022 04:21:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`spes_db`.`pupil_account_tbl`, CONSTRAINT `pupil_account_tbl_ibfk_1` FOREIGN KEY (`pupil_id`) REFERENCES `student_tbl` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/functions/password/add_pupil_password.php:12
+Stack trace:
+#0 /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/functions/password/add_pupil_password.php(12): mysqli->query()
+#1 {main}
+  thrown in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/functions/password/add_pupil_password.php on line 12

@@ -1,0 +1,217 @@
+[16-May-2022 18:46:22 UTC] PHP Warning:  Undefined array key "sy" in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 17
+[16-May-2022 18:46:22 UTC] PHP Warning:  Undefined variable $schoolyear in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 159
+[16-May-2022 18:46:22 UTC] PHP Warning:  Undefined variable $principal in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 160
+[16-May-2022 18:46:22 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php:332
+Stack trace:
+#0 {main}
+  thrown in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 332
+[16-May-2022 18:46:49 UTC] PHP Warning:  Undefined array key "export_gradelvl" in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 34
+[16-May-2022 18:46:49 UTC] PHP Warning:  Undefined variable $roman_grade in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 153
+[16-May-2022 18:46:49 UTC] PHP Warning:  Undefined variable $grade_num in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 156
+[16-May-2022 18:46:49 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php:332
+Stack trace:
+#0 {main}
+  thrown in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 332
+[16-May-2022 23:11:24 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php:332
+Stack trace:
+#0 {main}
+  thrown in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 332
+[16-May-2022 23:22:51 UTC] PHP Warning:  Undefined variable $pupils_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 98
+[16-May-2022 23:22:51 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php:121
+Stack trace:
+#0 {main}
+  thrown in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 121
+[16-May-2022 23:46:22 UTC] PHP Warning:  Undefined variable $pupils_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 98
+[16-May-2022 23:46:22 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php:121
+Stack trace:
+#0 {main}
+  thrown in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 121
+[17-May-2022 01:25:38 UTC] PHP Warning:  Undefined array key "export_gradelvl" in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 13
+[17-May-2022 01:25:38 UTC] PHP Warning:  Undefined variable $pupils_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 98
+[17-May-2022 01:25:38 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php:121
+Stack trace:
+#0 {main}
+  thrown in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 121
+[17-May-2022 02:42:04 UTC] PHP Warning:  Undefined array key "export_gradelvl" in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 13
+[17-May-2022 02:42:04 UTC] PHP Warning:  Undefined variable $pupils_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 98
+[17-May-2022 02:42:04 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php:121
+Stack trace:
+#0 {main}
+  thrown in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 121
+[17-May-2022 03:54:32 UTC] PHP Warning:  Undefined array key "export_gradelvl" in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 13
+[17-May-2022 03:54:32 UTC] PHP Warning:  Undefined variable $roman_grade in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 161
+[17-May-2022 03:54:32 UTC] PHP Warning:  Undefined variable $grade_num in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 164
+[17-May-2022 03:54:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 327
+[17-May-2022 03:54:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 327
+[17-May-2022 03:54:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 327
+[17-May-2022 03:54:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 327
+[17-May-2022 03:54:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 328
+[17-May-2022 03:54:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 328
+[17-May-2022 03:54:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 328
+[17-May-2022 03:54:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 328
+[17-May-2022 03:54:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 329
+[17-May-2022 03:54:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 329
+[17-May-2022 03:54:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 329
+[17-May-2022 03:54:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 329
+[17-May-2022 03:54:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 330
+[17-May-2022 03:54:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 330
+[17-May-2022 03:54:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 330
+[17-May-2022 03:54:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 330
+[17-May-2022 03:55:31 UTC] PHP Warning:  Undefined array key "export_gradelvl" in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 13
+[17-May-2022 03:55:31 UTC] PHP Warning:  Undefined variable $roman_grade in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 161
+[17-May-2022 03:55:31 UTC] PHP Warning:  Undefined variable $grade_num in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 164
+[17-May-2022 03:55:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 327
+[17-May-2022 03:55:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 327
+[17-May-2022 03:55:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 327
+[17-May-2022 03:55:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 327
+[17-May-2022 03:55:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 328
+[17-May-2022 03:55:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 328
+[17-May-2022 03:55:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 328
+[17-May-2022 03:55:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 328
+[17-May-2022 03:55:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 329
+[17-May-2022 03:55:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 329
+[17-May-2022 03:55:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 329
+[17-May-2022 03:55:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 329
+[17-May-2022 03:55:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 330
+[17-May-2022 03:55:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 330
+[17-May-2022 03:55:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 330
+[17-May-2022 03:55:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 330
+[17-May-2022 04:04:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 327
+[17-May-2022 04:04:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 327
+[17-May-2022 04:04:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 327
+[17-May-2022 04:04:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 327
+[17-May-2022 04:04:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 328
+[17-May-2022 04:04:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 328
+[17-May-2022 04:04:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 328
+[17-May-2022 04:04:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 328
+[17-May-2022 04:04:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 329
+[17-May-2022 04:04:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 329
+[17-May-2022 04:04:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 329
+[17-May-2022 04:04:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 329
+[17-May-2022 04:04:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 330
+[17-May-2022 04:04:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 330
+[17-May-2022 04:04:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 330
+[17-May-2022 04:04:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 330
+[17-May-2022 04:33:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 327
+[17-May-2022 04:33:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 327
+[17-May-2022 04:33:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 327
+[17-May-2022 04:33:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 327
+[17-May-2022 04:33:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 328
+[17-May-2022 04:33:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 328
+[17-May-2022 04:33:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 328
+[17-May-2022 04:33:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 328
+[17-May-2022 04:33:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 329
+[17-May-2022 04:33:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 329
+[17-May-2022 04:33:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 329
+[17-May-2022 04:33:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 329
+[17-May-2022 04:33:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 330
+[17-May-2022 04:33:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 330
+[17-May-2022 04:33:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 330
+[17-May-2022 04:33:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 330
+[17-May-2022 05:51:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 327
+[17-May-2022 05:51:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 327
+[17-May-2022 05:51:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 327
+[17-May-2022 05:51:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 327
+[17-May-2022 05:51:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 328
+[17-May-2022 05:51:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 328
+[17-May-2022 05:51:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 328
+[17-May-2022 05:51:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 328
+[17-May-2022 05:51:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 329
+[17-May-2022 05:51:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 329
+[17-May-2022 05:51:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 329
+[17-May-2022 05:51:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 329
+[17-May-2022 05:51:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 330
+[17-May-2022 05:51:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 330
+[17-May-2022 05:51:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 330
+[17-May-2022 05:51:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 330
+[17-May-2022 07:45:59 UTC] PHP Warning:  Undefined array key "export_gradelvl" in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 13
+[17-May-2022 07:45:59 UTC] PHP Warning:  Undefined variable $roman_grade in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 161
+[17-May-2022 07:45:59 UTC] PHP Warning:  Undefined variable $grade_num in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 164
+[17-May-2022 07:45:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 327
+[17-May-2022 07:45:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 327
+[17-May-2022 07:45:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 327
+[17-May-2022 07:45:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 327
+[17-May-2022 07:45:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 328
+[17-May-2022 07:45:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 328
+[17-May-2022 07:45:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 328
+[17-May-2022 07:45:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 328
+[17-May-2022 07:45:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 329
+[17-May-2022 07:45:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 329
+[17-May-2022 07:45:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 329
+[17-May-2022 07:45:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 329
+[17-May-2022 07:45:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 330
+[17-May-2022 07:45:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 330
+[17-May-2022 07:45:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 330
+[17-May-2022 07:45:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 330
+[18-May-2022 06:19:34 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php:380
+Stack trace:
+#0 {main}
+  thrown in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 380
+[18-May-2022 06:19:41 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php:380
+Stack trace:
+#0 {main}
+  thrown in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 380
+[30-Jun-2022 00:47:29 UTC] PHP Warning:  Undefined variable $schoolyear in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 179
+[30-Jun-2022 00:47:29 UTC] PHP Warning:  Undefined variable $principal in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 180
+[30-Jun-2022 01:29:09 UTC] PHP Warning:  Undefined variable $schoolyear in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 179
+[30-Jun-2022 01:29:09 UTC] PHP Warning:  Undefined variable $principal in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 180
+[30-Jun-2022 03:04:41 UTC] PHP Warning:  Uninitialized string offset 0 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 161
+[30-Jun-2022 03:04:41 UTC] PHP Warning:  Uninitialized string offset 1 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 162
+[30-Jun-2022 03:04:41 UTC] PHP Warning:  Uninitialized string offset 2 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 163
+[30-Jun-2022 03:04:41 UTC] PHP Warning:  Uninitialized string offset 3 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 164
+[30-Jun-2022 03:04:41 UTC] PHP Warning:  Uninitialized string offset 4 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 165
+[30-Jun-2022 03:04:41 UTC] PHP Warning:  Uninitialized string offset 5 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 166
+[30-Jun-2022 03:04:41 UTC] PHP Warning:  Uninitialized string offset 6 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 167
+[30-Jun-2022 03:04:41 UTC] PHP Warning:  Uninitialized string offset 7 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 168
+[30-Jun-2022 03:04:41 UTC] PHP Warning:  Uninitialized string offset 8 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 169
+[30-Jun-2022 03:04:41 UTC] PHP Warning:  Uninitialized string offset 9 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 170
+[30-Jun-2022 03:04:41 UTC] PHP Warning:  Uninitialized string offset 10 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 171
+[30-Jun-2022 03:04:41 UTC] PHP Warning:  Uninitialized string offset 11 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 172
+[30-Jun-2022 03:04:41 UTC] PHP Warning:  Undefined variable $schoolyear in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 179
+[30-Jun-2022 03:04:41 UTC] PHP Warning:  Undefined variable $principal in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 180
+[30-Jun-2022 03:06:35 UTC] PHP Warning:  Uninitialized string offset 0 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 161
+[30-Jun-2022 03:06:35 UTC] PHP Warning:  Uninitialized string offset 1 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 162
+[30-Jun-2022 03:06:35 UTC] PHP Warning:  Uninitialized string offset 2 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 163
+[30-Jun-2022 03:06:35 UTC] PHP Warning:  Uninitialized string offset 3 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 164
+[30-Jun-2022 03:06:35 UTC] PHP Warning:  Uninitialized string offset 4 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 165
+[30-Jun-2022 03:06:35 UTC] PHP Warning:  Uninitialized string offset 5 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 166
+[30-Jun-2022 03:06:35 UTC] PHP Warning:  Uninitialized string offset 6 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 167
+[30-Jun-2022 03:06:35 UTC] PHP Warning:  Uninitialized string offset 7 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 168
+[30-Jun-2022 03:06:35 UTC] PHP Warning:  Uninitialized string offset 8 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 169
+[30-Jun-2022 03:06:35 UTC] PHP Warning:  Uninitialized string offset 9 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 170
+[30-Jun-2022 03:06:35 UTC] PHP Warning:  Uninitialized string offset 10 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 171
+[30-Jun-2022 03:06:35 UTC] PHP Warning:  Uninitialized string offset 11 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 172
+[30-Jun-2022 03:06:35 UTC] PHP Warning:  Undefined variable $schoolyear in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 179
+[30-Jun-2022 03:06:35 UTC] PHP Warning:  Undefined variable $principal in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 180
+[30-Jun-2022 03:07:03 UTC] PHP Warning:  Uninitialized string offset 0 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 161
+[30-Jun-2022 03:07:03 UTC] PHP Warning:  Uninitialized string offset 1 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 162
+[30-Jun-2022 03:07:03 UTC] PHP Warning:  Uninitialized string offset 2 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 163
+[30-Jun-2022 03:07:03 UTC] PHP Warning:  Uninitialized string offset 3 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 164
+[30-Jun-2022 03:07:03 UTC] PHP Warning:  Uninitialized string offset 4 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 165
+[30-Jun-2022 03:07:03 UTC] PHP Warning:  Uninitialized string offset 5 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 166
+[30-Jun-2022 03:07:03 UTC] PHP Warning:  Uninitialized string offset 6 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 167
+[30-Jun-2022 03:07:03 UTC] PHP Warning:  Uninitialized string offset 7 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 168
+[30-Jun-2022 03:07:03 UTC] PHP Warning:  Uninitialized string offset 8 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 169
+[30-Jun-2022 03:07:03 UTC] PHP Warning:  Uninitialized string offset 9 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 170
+[30-Jun-2022 03:07:03 UTC] PHP Warning:  Uninitialized string offset 10 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 171
+[30-Jun-2022 03:07:03 UTC] PHP Warning:  Uninitialized string offset 11 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 172
+[30-Jun-2022 03:07:03 UTC] PHP Warning:  Undefined variable $schoolyear in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 179
+[30-Jun-2022 03:07:03 UTC] PHP Warning:  Undefined variable $principal in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 180
+[30-Jun-2022 03:08:19 UTC] PHP Warning:  Undefined variable $schoolyear in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 179
+[30-Jun-2022 03:08:19 UTC] PHP Warning:  Undefined variable $principal in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 180
+[30-Jun-2022 11:38:20 UTC] PHP Warning:  Undefined variable $schoolyear in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 179
+[30-Jun-2022 11:38:20 UTC] PHP Warning:  Undefined variable $principal in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 180
+[02-Jul-2022 13:49:00 UTC] PHP Warning:  Undefined variable $schoolyear in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 179
+[02-Jul-2022 13:49:00 UTC] PHP Warning:  Undefined variable $principal in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 180
+[02-Jul-2022 15:23:35 UTC] PHP Warning:  Uninitialized string offset 0 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 159
+[02-Jul-2022 15:23:35 UTC] PHP Warning:  Uninitialized string offset 1 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 160
+[02-Jul-2022 15:23:35 UTC] PHP Warning:  Uninitialized string offset 2 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 161
+[02-Jul-2022 15:23:35 UTC] PHP Warning:  Uninitialized string offset 3 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 162
+[02-Jul-2022 15:23:35 UTC] PHP Warning:  Uninitialized string offset 4 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 163
+[02-Jul-2022 15:23:35 UTC] PHP Warning:  Uninitialized string offset 5 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 164
+[02-Jul-2022 15:23:35 UTC] PHP Warning:  Uninitialized string offset 6 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 165
+[02-Jul-2022 15:23:35 UTC] PHP Warning:  Uninitialized string offset 7 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 166
+[02-Jul-2022 15:23:35 UTC] PHP Warning:  Uninitialized string offset 8 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 167
+[02-Jul-2022 15:23:35 UTC] PHP Warning:  Uninitialized string offset 9 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 168
+[02-Jul-2022 15:23:35 UTC] PHP Warning:  Uninitialized string offset 10 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 169
+[02-Jul-2022 15:23:35 UTC] PHP Warning:  Uninitialized string offset 11 in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/phpspreadsheet/exportcard.php on line 170

@@ -1,0 +1,172 @@
+[23-Jun-2022 06:22:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/functions/getSYName.php on line 12
+[23-Jun-2022 06:23:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/functions/getSYName.php on line 12
+[23-Jun-2022 06:23:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/functions/getSYName.php on line 12
+[23-Jun-2022 06:23:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/functions/getSYName.php on line 12
+[23-Jun-2022 06:38:28 UTC] PHP Warning:  Undefined variable $selected_year in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/MyClasses.php on line 58
+[23-Jun-2022 06:39:19 UTC] PHP Warning:  Undefined variable $selected_year in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/MyClasses.php on line 58
+[23-Jun-2022 06:39:28 UTC] PHP Warning:  Undefined variable $selected_year in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/MyClasses.php on line 58
+[23-Jun-2022 06:43:19 UTC] PHP Warning:  Undefined variable $selected_year in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/MyClasses.php on line 64
+[23-Jun-2022 06:43:41 UTC] PHP Warning:  Undefined variable $selected_year in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/MyClasses.php on line 64
+[23-Jun-2022 06:45:06 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/MyClasses.php on line 64
+[23-Jun-2022 06:52:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/functions/getSYName.php on line 12
+[23-Jun-2022 06:52:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/functions/getSYName.php on line 12
+[23-Jun-2022 06:53:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/functions/getSYName.php on line 12
+[23-Jun-2022 06:53:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/functions/getSYName.php on line 12
+[23-Jun-2022 06:54:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/functions/getSYName.php on line 12
+[23-Jun-2022 06:54:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/functions/getSYName.php on line 12
+[23-Jun-2022 06:54:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/functions/getSYName.php on line 12
+[23-Jun-2022 06:55:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/functions/getSYName.php on line 12
+[23-Jun-2022 06:55:47 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 35
+[23-Jun-2022 06:55:47 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 151
+[23-Jun-2022 06:55:47 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 156
+[23-Jun-2022 06:55:47 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 161
+[23-Jun-2022 06:55:47 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 308
+[23-Jun-2022 06:55:47 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 320
+[23-Jun-2022 06:55:47 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 335
+[23-Jun-2022 06:55:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 400
+[23-Jun-2022 06:56:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/functions/getSYName.php on line 12
+[23-Jun-2022 06:56:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/functions/getSYName.php on line 12
+[23-Jun-2022 13:43:18 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 35
+[23-Jun-2022 13:43:18 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 151
+[23-Jun-2022 13:43:18 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 156
+[23-Jun-2022 13:43:18 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 161
+[23-Jun-2022 13:43:18 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 308
+[23-Jun-2022 13:43:18 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 320
+[23-Jun-2022 13:43:18 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 335
+[23-Jun-2022 13:43:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 400
+[23-Jun-2022 14:59:57 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 35
+[23-Jun-2022 14:59:57 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 151
+[23-Jun-2022 14:59:57 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 156
+[23-Jun-2022 14:59:57 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 161
+[23-Jun-2022 14:59:57 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 308
+[23-Jun-2022 14:59:57 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 320
+[23-Jun-2022 14:59:57 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 335
+[23-Jun-2022 14:59:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 400
+[25-Jun-2022 13:29:55 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 35
+[25-Jun-2022 13:29:55 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 151
+[25-Jun-2022 13:29:55 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 156
+[25-Jun-2022 13:29:55 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 161
+[25-Jun-2022 13:29:55 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 308
+[25-Jun-2022 13:29:55 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 320
+[25-Jun-2022 13:29:55 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 335
+[25-Jun-2022 13:29:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 400
+[25-Jun-2022 14:40:06 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 35
+[25-Jun-2022 14:40:06 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 151
+[25-Jun-2022 14:40:06 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 156
+[25-Jun-2022 14:40:06 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 161
+[25-Jun-2022 14:40:06 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 308
+[25-Jun-2022 14:40:06 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 320
+[25-Jun-2022 14:40:06 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 335
+[25-Jun-2022 14:40:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 400
+[26-Jun-2022 02:25:15 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 35
+[26-Jun-2022 02:25:15 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 151
+[26-Jun-2022 02:25:15 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 156
+[26-Jun-2022 02:25:15 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 161
+[26-Jun-2022 02:25:15 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 308
+[26-Jun-2022 02:25:15 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 320
+[26-Jun-2022 02:25:15 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 335
+[26-Jun-2022 02:25:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 400
+[26-Jun-2022 05:16:02 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/MySubjects.php on line 22
+[26-Jun-2022 05:16:02 UTC] PHP Warning:  Undefined array key "selected_sy" in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/MySubjects.php on line 22
+[26-Jun-2022 05:16:02 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/MySubjects.php on line 32
+[26-Jun-2022 05:16:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/MySubjects.php on line 191
+[26-Jun-2022 06:42:51 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/MyClasses.php on line 25
+[26-Jun-2022 06:42:51 UTC] PHP Warning:  Undefined array key "selected_sy" in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/MyClasses.php on line 25
+[26-Jun-2022 06:42:51 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/MyClasses.php on line 76
+[26-Jun-2022 06:42:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/MyClasses.php on line 242
+[26-Jun-2022 15:32:42 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/MySubjects.php on line 22
+[26-Jun-2022 15:32:42 UTC] PHP Warning:  Undefined array key "selected_sy" in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/MySubjects.php on line 22
+[26-Jun-2022 15:32:42 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/MySubjects.php on line 32
+[26-Jun-2022 15:32:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/MySubjects.php on line 191
+[26-Jun-2022 19:26:37 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 35
+[26-Jun-2022 19:26:37 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 151
+[26-Jun-2022 19:26:37 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 156
+[26-Jun-2022 19:26:37 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 161
+[26-Jun-2022 19:26:37 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 308
+[26-Jun-2022 19:26:37 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 320
+[26-Jun-2022 19:26:37 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 335
+[26-Jun-2022 19:26:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 400
+[28-Jun-2022 02:27:59 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 35
+[28-Jun-2022 02:27:59 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 151
+[28-Jun-2022 02:27:59 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 156
+[28-Jun-2022 02:27:59 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 161
+[28-Jun-2022 02:27:59 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 308
+[28-Jun-2022 02:27:59 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 320
+[28-Jun-2022 02:27:59 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 335
+[28-Jun-2022 02:27:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 400
+[28-Jun-2022 02:27:59 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 35
+[28-Jun-2022 02:27:59 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 151
+[28-Jun-2022 02:27:59 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 156
+[28-Jun-2022 02:27:59 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 161
+[28-Jun-2022 02:27:59 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 308
+[28-Jun-2022 02:27:59 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 320
+[28-Jun-2022 02:27:59 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 335
+[28-Jun-2022 02:27:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 400
+[29-Jun-2022 07:34:21 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 35
+[29-Jun-2022 07:34:21 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 151
+[29-Jun-2022 07:34:21 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 156
+[29-Jun-2022 07:34:21 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 161
+[29-Jun-2022 07:34:21 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 308
+[29-Jun-2022 07:34:21 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 320
+[29-Jun-2022 07:34:21 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 335
+[29-Jun-2022 07:34:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 400
+[30-Jun-2022 00:24:36 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 35
+[30-Jun-2022 00:24:36 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 151
+[30-Jun-2022 00:24:36 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 156
+[30-Jun-2022 00:24:36 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 161
+[30-Jun-2022 00:24:36 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 308
+[30-Jun-2022 00:24:36 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 320
+[30-Jun-2022 00:24:36 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 335
+[30-Jun-2022 00:24:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 400
+[30-Jun-2022 00:24:36 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 35
+[30-Jun-2022 00:24:36 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 151
+[30-Jun-2022 00:24:36 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 156
+[30-Jun-2022 00:24:36 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 161
+[30-Jun-2022 00:24:36 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 308
+[30-Jun-2022 00:24:36 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 320
+[30-Jun-2022 00:24:36 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 335
+[30-Jun-2022 00:24:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 400
+[30-Jun-2022 01:53:26 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/MySubjects.php on line 22
+[30-Jun-2022 01:53:26 UTC] PHP Warning:  Undefined array key "selected_sy" in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/MySubjects.php on line 22
+[30-Jun-2022 01:53:26 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/MySubjects.php on line 32
+[30-Jun-2022 01:53:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/MySubjects.php on line 191
+[30-Jun-2022 02:49:43 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 35
+[30-Jun-2022 02:49:43 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 151
+[30-Jun-2022 02:49:43 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 156
+[30-Jun-2022 02:49:43 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 161
+[30-Jun-2022 02:49:43 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 308
+[30-Jun-2022 02:49:43 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 320
+[30-Jun-2022 02:49:43 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 335
+[30-Jun-2022 02:49:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 400
+[30-Jun-2022 14:03:06 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 35
+[30-Jun-2022 14:03:06 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 151
+[30-Jun-2022 14:03:06 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 156
+[30-Jun-2022 14:03:06 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 161
+[30-Jun-2022 14:03:06 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 308
+[30-Jun-2022 14:03:06 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 320
+[30-Jun-2022 14:03:06 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 335
+[30-Jun-2022 14:03:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 400
+[02-Jul-2022 00:31:47 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 35
+[02-Jul-2022 00:31:47 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 151
+[02-Jul-2022 00:31:47 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 156
+[02-Jul-2022 00:31:47 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 161
+[02-Jul-2022 00:31:47 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 308
+[02-Jul-2022 00:31:47 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 320
+[02-Jul-2022 00:31:47 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 335
+[02-Jul-2022 00:31:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 400
+[02-Jul-2022 00:31:47 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 35
+[02-Jul-2022 00:31:47 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 151
+[02-Jul-2022 00:31:47 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 156
+[02-Jul-2022 00:31:47 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 161
+[02-Jul-2022 00:31:47 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 308
+[02-Jul-2022 00:31:47 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 320
+[02-Jul-2022 00:31:47 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 335
+[02-Jul-2022 00:31:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 400
+[02-Jul-2022 13:40:14 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 35
+[02-Jul-2022 13:40:14 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 151
+[02-Jul-2022 13:40:14 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 156
+[02-Jul-2022 13:40:14 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 161
+[02-Jul-2022 13:40:14 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 308
+[02-Jul-2022 13:40:14 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 320
+[02-Jul-2022 13:40:14 UTC] PHP Warning:  Undefined variable $teacher_id in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 335
+[02-Jul-2022 13:40:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/hk0j3vkvorct/public_html/e-grading.speshub.com/teacher/main_page/Dashboard.php on line 400

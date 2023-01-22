@@ -1,0 +1,105 @@
+/* Link for font: Used Font is Poppins */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:wght@400;900&display=swap');
+
+/* My Customed Colors */
+:root{
+    /* Main Color */
+    --color-variant: #CD324C;
+    --color-primary: #E75858;
+    --color-secondary: #F85858;
+    --color-tertiary: #F9809B;
+    --color-purple: #8E4EFE;
+
+    /* Text Colors */
+    --color-text-primary: #212529;
+    --color-text-secondary: #707070;
+    --color-white: #FFFFFF;
+    --color-info-dark: #7D8DA1;
+    --color-info-light: #DCE1EB;
+    --color-dark-variant: #677483;
+    --color-primary-variant: #111E88;
+
+    /* Nav Color*/
+    --color-dash-color: #98A6AD;
+
+    /* Background Colors */
+    --color-background: #FAFBFF;
+
+    /* Box Shadow */
+    --color-dark: #363949;
+    --color-light: rgba(132, 139, 200, 0.18);
+    --box-shadow: 0 2rem 3rem var(--color-light);
+
+    /* Card Padding */
+    --card-padding: 1.8rem;
+    --padding-1: 1.2rem;
+
+    /* Border Radius */
+    --card-border-radius: 2rem;
+    --border-radius-1: 0.4rem;
+    --border-radius-2: 0.8rem;
+    --border-radius-3: 1.2rem;
+
+    /* Table Text */
+    --color-success:#41F1B6;
+    --color-danger: #FF7782;
+    --color-warning: #FFBB55;
+
+}
+
+/*=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=*/
+
+
+/*=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=*/
+/*                       T A B L E                          */
+/*=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=*/
+
+main .class-table {
+    margin-top: 2rem;
+}
+
+main .class-table h2{
+    margin-bottom: 0.8rem;
+}
+
+main .class-table table{
+    background: var(--color-white);
+    width: 100%;
+    border-radius: var(--card-border-radius);
+    padding: var(--card-padding);
+    text-align: center;
+    /* box-shadow: var(--box-shadow); */
+    transform: all 300ms ease;
+}
+
+/* main .class-table table:hover{
+    box-shadow: none;
+} */
+
+main .class-table table tr td span{
+    color: var(--color-purple);
+}
+
+main table tbody td{
+    height: 2.8rem;
+    border-bottom: 1px solid var(--color-light);
+    color: var(--color-dark-variant);
+}
+
+main table tbody tr:last-child td{
+    border: none;
+}
+
+main .class-table a{
+    text-align: center;
+    display: block;
+    margin: 1rem auto;
+    color: var(--color-purple);
+}
+
+main .class-table a span:hover{
+    cursor: pointer;
+    background: var(--color-info-light);
+    border-radius: var(--border-radius-2);
+    padding: 1px;
+}
